@@ -1,4 +1,6 @@
-# ![](https://www.bloomingtonsouthoptimist.org/wp-content/uploads/2020/04/sat_act.png) Project 1: Market Opportunity for Standardized Test Preparatory Schools
+<img src="https://www.bloomingtonsouthoptimist.org/wp-content/uploads/2020/04/sat_act.png" style="float: left; margin: 20px; height: 100px"><br>
+
+# Project 1: Market Opportunity for Standardized Test Preparatory Schools
 
 
 ### Problem Statement
@@ -24,7 +26,7 @@ We wish to explore if there there are geographic concentrations of ACT vs SAT as
 
 #### Additional Data
 Furthermore, data on latest SAT and ACT (2021) performance breakdown are also sourced.  
-`sat_2021.xlsx` and `act_2021.xlsx` are also sourced ([*SAT*](https://nces.ed.gov/programs/digest/d21/tables/dt21_226.40.asp)) ([*ACT*](https://nces.ed.gov/programs/digest/d21/tables/dt21_226.60.asp)).
+`sat_2021_bd.xlsx` and `act_2021_bd.xlsx` are also sourced ([*SAT*](https://nces.ed.gov/programs/digest/d21/tables/dt21_226.40.asp)) ([*ACT*](https://nces.ed.gov/programs/digest/d21/tables/dt21_226.60.asp)).
 
 ---
 ### Data Dictionaries
